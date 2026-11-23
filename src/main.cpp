@@ -27,7 +27,7 @@ const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 const char*    TB_HOST  = "thingsboard.cloud";
 const uint16_t TB_PORT  = 1883;
-const char*    TB_TOKEN = "HKcj2oywcgbbcv50PRWu";
+const char*    TB_TOKEN = "TOKEN";
 
 const bool BUZZER_ENABLED = true;
 
